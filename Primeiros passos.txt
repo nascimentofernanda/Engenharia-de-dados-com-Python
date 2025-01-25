@@ -1,0 +1,17 @@
+ENGENHARIA DE DADOS COM PYTHON
+
+PRIMEIROS PASSOS COM PYTHON
+
+Faça sempre o seu melhor;
+Python foi criado em 1989;
+Linguagem fácil e intuitiva;
+Código aberto;
+Adequado para tarefas diáirias e produtivas;
+Inteligível em inglês;
+Só não é utilizada para apps móveis;
+Tipagem dinâmica e forte;
+Multiplataforma e multiparadigma;
+Curva de aprendizagem baixa;
+
+
+

@@ -1,0 +1,51 @@
+CONHECENDO A LINGUAGEM
+
+Tipos de dados:
+Determinam as características e comportamentos de um objeto;
+Texto;
+Numérico;
+Sequência;
+Mapa;
+Coleção
+Booleano;
+Binário;
+
+Numéricos:
+Inteiros [1,2,3,4,5,6,7,8,9,...];
+Float [1.3, 14.7, 68.90...];
+
+Booleano:
+True or false
+
+Texto:
+String [palavras];
+
+
+Modo interativo:
+interpretador python (direto no terminal);
+flag -i (python -i nome-do-arquivo.py);
+exit();
+
+dir() [escopo local];
+dir(objeto) [métodos do objeto];
+
+help()
+help(objeto) [métodos explicando];
+
+
+Constantes e variáveis:
+
+Variáveis: Valores que podem sofrer alterações;
+Constantes: Valores que não podem sofrer alterações;
+Variáveis escritas com nome em maiúscula não devem ter o nome alterado;
+Padrão de nomes snake_case;
+Nome sugestivo para programas e variáveis;
+
+Conversão de tipos:
+Concatenar: variável = f"texto {variável}";
+tipo_desejado=(variável)
+
+
+Funções de entrada e saída:
+entrada: input("") padrão como string;
+saída: print("").
